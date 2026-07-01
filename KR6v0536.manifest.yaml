@@ -1,0 +1,5004 @@
+canonical_identifier: bkk:krp/KR6v0536/v1
+canonical_location: https://kanripo.org/bkk/KR6v0536/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 峨眉山志
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/GA/GA045/GA045n0049.xml
+    old_id: GA045n0049
+  edition:
+    short: bkk
+editions:
+- short: 志彙
+  label: 志彙
+  source_xml_id: wit.orig
+- short: GA
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0536_000.yaml, hash: 'sha256:ebd42e79edad3e6830904afbac886b7a62c71c9cacbf9b7947d3164b98c8ad13'}
+  - {seq: 1, filename: KR6v0536_001.yaml, hash: 'sha256:3caf50437ecd0cef6b660dfc506d67715b85269e185df4f8fb6e6afca403d692'}
+  - {seq: 2, filename: KR6v0536_002.yaml, hash: 'sha256:95b5d450ce892ba1079009d083d279a2ff79b890021274771d8ed11c88a3a4ce'}
+  - {seq: 3, filename: KR6v0536_003.yaml, hash: 'sha256:db337ffee001c531920e488f3be7da8727667f1bfc3e9bc1424dee479873a7cc'}
+  - {seq: 4, filename: KR6v0536_004.yaml, hash: 'sha256:9e47275250a14c5432a1f865db2a22ddb38664d17f7890641f42b24d01de4176'}
+  - {seq: 5, filename: KR6v0536_005.yaml, hash: 'sha256:3440ac6ae6efb28987f3d3b080ed407149042da8180ea35e5637f63b09108d8e'}
+  - {seq: 6, filename: KR6v0536_006.yaml, hash: 'sha256:7973a87ac41cb70221e882564a8173e6a400c23bcfdd7379b6725dd7194be5b5'}
+  - {seq: 7, filename: KR6v0536_007.yaml, hash: 'sha256:ae68f6fc2c0c27e4f0d50433ba1ed23709f68b1354b3b21881191198b36b6beb'}
+  - {seq: 8, filename: KR6v0536_008.yaml, hash: 'sha256:ad770940ffdac910fd5944cdc298bba321dc730a6d1f308fcebfe806107ce08a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0536_000.markers.yaml, hash: 'sha256:74250b5ac4e21afae77fcdb2ad774f10d11a3dd267e459b190a0bbdd9475a857'}
+  - {seq: 1, role: markers, filename: assets/KR6v0536_001.markers.yaml, hash: 'sha256:afe876a81d426dbf7e4280ca011cd616892ac28b1616e97b55bd3e9e02c79cb5'}
+  - {seq: 2, role: markers, filename: assets/KR6v0536_002.markers.yaml, hash: 'sha256:0784ec9e26555635f0611814a53072f69bbe5a21b3ff58da4a606ea1ee9b8805'}
+  - {seq: 3, role: markers, filename: assets/KR6v0536_003.markers.yaml, hash: 'sha256:c9e33d2bd3c8cd772ed83f43fd79938c332dba064397a2edd1f57da534805397'}
+  - {seq: 4, role: markers, filename: assets/KR6v0536_004.markers.yaml, hash: 'sha256:e8bca44905c6c056dbb806d7c5727eb18f338df8e6c7ebc215715ae55180fb6e'}
+  - {seq: 5, role: markers, filename: assets/KR6v0536_005.markers.yaml, hash: 'sha256:e09136745eeb5b5006a275afefdc59e25af3da7c3530aff6d19ebba91d6e609e'}
+  - {seq: 6, role: markers, filename: assets/KR6v0536_006.markers.yaml, hash: 'sha256:a1ee93a1d83c3344d37f00350d4e69f2f62c0608c4cd3a8a6bd06b72c1659c2f'}
+  - {seq: 7, role: markers, filename: assets/KR6v0536_007.markers.yaml, hash: 'sha256:af5d664598deaeb01acd661875f25c48538e10ffe99d9f0bf4fed3180c977c30'}
+  - {seq: 8, role: markers, filename: assets/KR6v0536_008.markers.yaml, hash: 'sha256:96d8ca1ef112772c80cab8a7f8b3b65326a2185100d800aa0fcd5fd348348046'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0536_GA_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 版本說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0536_GA_000-mulu-2
+    span:
+    - front
+    - 536
+    - 536
+  label: 卷首
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0536_GA_000-mulu-3
+    span:
+    - front
+    - 536
+    - 536
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0536_GA_000-mulu-4
+    span:
+    - front
+    - 536
+    - 536
+  label: 重修流通序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0536_GA_000-mulu-5
+    span:
+    - front
+    - 2957
+    - 2957
+  label: 舊序一
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0536_GA_000-mulu-6
+    span:
+    - front
+    - 3697
+    - 3697
+  label: 舊序二
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0536_GA_000-mulu-7
+    span:
+    - front
+    - 4198
+    - 4198
+  label: 舊序三
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0536_GA_000-mulu-8
+    span:
+    - front
+    - 4646
+    - 4646
+  label: 修山志說
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0536_GA_000-mulu-9
+    span:
+    - front
+    - 4871
+    - 4871
+  label: 補遺：峨眉山志記
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0536_GA_000-mulu-10
+    span:
+    - front
+    - 5118
+    - 5118
+  label: 凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0536_GA_000-mulu-11
+    span:
+    - front
+    - 5118
+    - 5118
+  label: 舊志凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0536_GA_000-mulu-12
+    span:
+    - front
+    - 5888
+    - 5888
+  label: 新訂凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0536_GA_000-mulu-13
+    span:
+    - front
+    - 6339
+    - 6339
+  label: 總目
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0536_GA_000-mulu-14
+    span:
+    - front
+    - 6469
+    - 6469
+  label: 普賢菩薩像
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0536_GA_000-mulu-15
+    span:
+    - front
+    - 6469
+    - 6469
+  label: 大方廣佛華嚴經普賢菩薩行願品（節要）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-juan-start
+    span:
+    - body
+    - 0
+    - 13198
+  label: 峨眉山志卷一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第一、星野圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-2
+    span:
+    - body
+    - 12
+    - 12
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-3
+    span:
+    - body
+    - 141
+    - 141
+  label: 星野
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-4
+    span:
+    - body
+    - 409
+    - 409
+  label: 圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-5
+    span:
+    - body
+    - 489
+    - 489
+  label: 峨眉山志圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-6
+    span:
+    - body
+    - 489
+    - 489
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-7
+    span:
+    - body
+    - 1097
+    - 1097
+  label: 記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-8
+    span:
+    - body
+    - 1754
+    - 1754
+  label: 一、峨眉山總圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-9
+    span:
+    - body
+    - 1898
+    - 1898
+  label: 二、峨眉縣至迴龍寺圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-10
+    span:
+    - body
+    - 2080
+    - 2080
+  label: 三、迴龍寺至峨神廟圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-11
+    span:
+    - body
+    - 2265
+    - 2265
+  label: 四、峨神廟至什方院圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-12
+    span:
+    - body
+    - 2332
+    - 2332
+  label: 五、什方院至壁山廟圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-13
+    span:
+    - body
+    - 2383
+    - 2383
+  label: 六、壁山廟至菩提庵圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-14
+    span:
+    - body
+    - 2446
+    - 2446
+  label: 七、菩提庵至興聖寺圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-15
+    span:
+    - body
+    - 2528
+    - 2528
+  label: 八、興聖寺至聖積寺圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-16
+    span:
+    - body
+    - 2786
+    - 2786
+  label: 九、聖積寺至文昌廟圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-17
+    span:
+    - body
+    - 2891
+    - 2891
+  label: 十、文昌廟至保寧寺圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-18
+    span:
+    - body
+    - 2999
+    - 2999
+  label: 十一、保寧寺至子龍廟圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-19
+    span:
+    - body
+    - 3062
+    - 3062
+  label: 十二、子龍廟至報國寺圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-20
+    span:
+    - body
+    - 3192
+    - 3192
+  label: 十三、報國寺至善覺寺圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-21
+    span:
+    - body
+    - 3337
+    - 3337
+  label: 十四、善覺寺至伏虎寺圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-22
+    span:
+    - body
+    - 3644
+    - 3644
+  label: 十五、伏虎寺至雷音寺圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-23
+    span:
+    - body
+    - 3767
+    - 3767
+  label: 十六、雷音寺至華嚴寺圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-24
+    span:
+    - body
+    - 4036
+    - 4036
+  label: 十七、華嚴寺至純陽殿圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-25
+    span:
+    - body
+    - 4194
+    - 4194
+  label: 十八、純陽殿至會燈寺圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-26
+    span:
+    - body
+    - 4263
+    - 4263
+  label: 十九、會燈寺至大峨寺圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-27
+    span:
+    - body
+    - 4658
+    - 4658
+  label: 二十、大峨寺至中峯寺圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-28
+    span:
+    - body
+    - 4948
+    - 4948
+  label: 二十一、中峯寺至觀音寺圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-29
+    span:
+    - body
+    - 5059
+    - 5059
+  label: 二十二、觀音寺至龍昇岡圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-30
+    span:
+    - body
+    - 5120
+    - 5120
+  label: 二十三、龍昇岡至廣福寺圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-31
+    span:
+    - body
+    - 5210
+    - 5210
+  label: 二十四、廣福寺至清音閣圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-32
+    span:
+    - body
+    - 5414
+    - 5414
+  label: 二十五、清音閣至金龍寺圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-33
+    span:
+    - body
+    - 5583
+    - 5583
+  label: 二十六、金龍寺至萬年寺圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-34
+    span:
+    - body
+    - 5999
+    - 5999
+  label: 二十七、萬年寺至觀心庵圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-35
+    span:
+    - body
+    - 6150
+    - 6150
+  label: 二十八、觀心庵至息心所圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-36
+    span:
+    - body
+    - 6310
+    - 6310
+  label: 二十九、息心所至長老坪圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-37
+    span:
+    - body
+    - 6577
+    - 6577
+  label: 三十、長老坪至初殿圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-38
+    span:
+    - body
+    - 6742
+    - 6742
+  label: 三十一、初殿至華嚴頂圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-39
+    span:
+    - body
+    - 6894
+    - 6894
+  label: 三十二、華嚴頂至蓮華石圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-40
+    span:
+    - body
+    - 7041
+    - 7041
+  label: 三十三、蓮華石至洗象池圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-41
+    span:
+    - body
+    - 7253
+    - 7253
+  label: 三十四、洗象池至大乘寺圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-42
+    span:
+    - body
+    - 7422
+    - 7422
+  label: 三十五、大乘寺至白雲寺圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-43
+    span:
+    - body
+    - 7581
+    - 7581
+  label: 三十六、白雲寺至雷洞坪圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-44
+    span:
+    - body
+    - 7848
+    - 7848
+  label: 三十七、雷洞坪至接引殿圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-45
+    span:
+    - body
+    - 7972
+    - 7972
+  label: 三十八、接引殿至太子坪圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-46
+    span:
+    - body
+    - 8232
+    - 8232
+  label: 三十九、太子坪至天門寺圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-47
+    span:
+    - body
+    - 8429
+    - 8429
+  label: 四十、天門寺至七天橋圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-48
+    span:
+    - body
+    - 8566
+    - 8566
+  label: 四十一、七天橋至金殿圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-49
+    span:
+    - body
+    - 9317
+    - 9317
+  label: 四十二、蓮華石至遇仙寺圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-50
+    span:
+    - body
+    - 9501
+    - 9501
+  label: 四十三、遇仙寺至仙峯寺圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-51
+    span:
+    - body
+    - 9758
+    - 9758
+  label: 四十四、仙峯寺至洪椿坪圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-52
+    span:
+    - body
+    - 9935
+    - 9935
+  label: 四十五、洪椿坪至大坪圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-53
+    span:
+    - body
+    - 10105
+    - 10105
+  label: 四十六、大坪至會佛寺圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-54
+    span:
+    - body
+    - 10216
+    - 10216
+  label: 四十七、會佛寺至牛心寺圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-55
+    span:
+    - body
+    - 10470
+    - 10470
+  label: 四十八、牛心寺至黑水寺圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-56
+    span:
+    - body
+    - 10804
+    - 10804
+  label: 四十九、黑水寺至石船子圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-57
+    span:
+    - body
+    - 10988
+    - 10988
+  label: 五十、石船子至龍門洞圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-58
+    span:
+    - body
+    - 11230
+    - 11230
+  label: 五十一、龍門洞至新開寺圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-59
+    span:
+    - body
+    - 11418
+    - 11418
+  label: 五十二、新開寺至靈巖寺圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-60
+    span:
+    - body
+    - 11678
+    - 11678
+  label: 五十三、靈巖寺至二峨、三峨圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-61
+    span:
+    - body
+    - 12107
+    - 12107
+  label: 五十四、三峨至四峨圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-62
+    span:
+    - body
+    - 12288
+    - 12288
+  label: 峨山十景
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-63
+    span:
+    - body
+    - 12292
+    - 12292
+  label: 金頂祥光
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-64
+    span:
+    - body
+    - 12346
+    - 12346
+  label: 靈巖疊翠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-65
+    span:
+    - body
+    - 12382
+    - 12382
+  label: 聖寺晚鐘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-66
+    span:
+    - body
+    - 12422
+    - 12422
+  label: 象池夜月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-67
+    span:
+    - body
+    - 12458
+    - 12458
+  label: 白水秋風
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-68
+    span:
+    - body
+    - 12498
+    - 12498
+  label: 洪椿曉雨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-69
+    span:
+    - body
+    - 12538
+    - 12538
+  label: 雙橋清音
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-70
+    span:
+    - body
+    - 12585
+    - 12585
+  label: 九老仙府
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-71
+    span:
+    - body
+    - 12626
+    - 12626
+  label: 大坪霽雪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-72
+    span:
+    - body
+    - 12664
+    - 12664
+  label: 羅峯晴雲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-73
+    span:
+    - body
+    - 12710
+    - 12710
+  label: 附：峨山圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-74
+    span:
+    - body
+    - 12927
+    - 12927
+  label: 附：圖頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0536_GA_001-mulu-75
+    span:
+    - body
+    - 13032
+    - 13032
+  label: 峨眉圖跋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-juan-start
+    span:
+    - body
+    - 0
+    - 21610
+  label: 峨眉山志卷二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第二、菩薩聖迹
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-2
+    span:
+    - body
+    - 26
+    - 26
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-3
+    span:
+    - body
+    - 134
+    - 134
+  label: 一、釋名
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-4
+    span:
+    - body
+    - 587
+    - 587
+  label: 二、修證
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-5
+    span:
+    - body
+    - 2129
+    - 2129
+  label: 三、德相
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-6
+    span:
+    - body
+    - 5170
+    - 5170
+  label: 四、法要
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-7
+    span:
+    - body
+    - 5173
+    - 5173
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-8
+    span:
+    - body
+    - 5507
+    - 5507
+  label: 大方廣佛華嚴經普賢菩薩行願品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-9
+    span:
+    - body
+    - 11034
+    - 11034
+  label: 大方廣如來不思議境界經
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-10
+    span:
+    - body
+    - 12504
+    - 12504
+  label: 五、利行
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-11
+    span:
+    - body
+    - 17709
+    - 17709
+  label: 六、應化
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-12
+    span:
+    - body
+    - 17712
+    - 17712
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-13
+    span:
+    - body
+    - 18489
+    - 18489
+  label: 降中興以慰宋后
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-14
+    span:
+    - body
+    - 18615
+    - 18615
+  label: 來天安以應道溫
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-15
+    span:
+    - body
+    - 18798
+    - 18798
+  label: 乘馬入道冏之堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-16
+    span:
+    - body
+    - 19163
+    - 19163
+  label: 駕象降普明之室
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-17
+    span:
+    - body
+    - 19330
+    - 19330
+  label: 化女子而求宿，顯曇翼之真修
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-18
+    span:
+    - body
+    - 19555
+    - 19555
+  label: 為拾得以驅牛，示亡僧之破戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-19
+    span:
+    - body
+    - 19678
+    - 19678
+  label: 入蓮華之勝會，二聖書名
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-20
+    span:
+    - body
+    - 19840
+    - 19840
+  label: 授淨梵之羯磨，圓音嘉獎
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-21
+    span:
+    - body
+    - 19953
+    - 19953
+  label: 道潛禮懺，停象駕於三門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-22
+    span:
+    - body
+    - 20047
+    - 20047
+  label: 辨才戴經，授《華嚴》之玄義
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-23
+    span:
+    - body
+    - 20116
+    - 20116
+  label: 則章親證三昧，徑往蓮邦
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-24
+    span:
+    - body
+    - 20208
+    - 20208
+  label: 海雲應現五臺，普利含識
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-25
+    span:
+    - body
+    - 20282
+    - 20282
+  label: 說樂邦之勝異，偕文殊同登蓮臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-26
+    span:
+    - body
+    - 20586
+    - 20586
+  label: 息地獄之苦輪，與地藏共居樹杪
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-27
+    span:
+    - body
+    - 20667
+    - 20667
+  label: 證大行於普勝，塵數同名
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-28
+    span:
+    - body
+    - 20705
+    - 20705
+  label: 住海島之牢山，威神亦著
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-29
+    span:
+    - body
+    - 20797
+    - 20797
+  label: 至于豎子現普賢之相，孕婦產徧吉之身，其慈悲濟度，尤為不可思議
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0536_GA_002-mulu-30
+    span:
+    - body
+    - 21158
+    - 21158
+  label: 附錄：《華嚴經》依普賢願王得生極樂撮要
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0536_GA_003-juan-start
+    span:
+    - body
+    - 0
+    - 19833
+  label: 峨眉山志卷三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0536_GA_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第三、全山形勝
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0536_GA_003-mulu-2
+    span:
+    - body
+    - 25
+    - 25
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0536_GA_003-mulu-3
+    span:
+    - body
+    - 90
+    - 90
+  label: 總論
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0536_GA_003-mulu-4
+    span:
+    - body
+    - 1124
+    - 1124
+  label: 峯
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0536_GA_003-mulu-5
+    span:
+    - body
+    - 1526
+    - 1526
+  label: 巖
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0536_GA_003-mulu-6
+    span:
+    - body
+    - 1578
+    - 1578
+  label: 臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0536_GA_003-mulu-7
+    span:
+    - body
+    - 1824
+    - 1824
+  label: 石
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0536_GA_003-mulu-8
+    span:
+    - body
+    - 2170
+    - 2170
+  label: 岡
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0536_GA_003-mulu-9
+    span:
+    - body
+    - 2236
+    - 2236
+  label: 洞
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0536_GA_003-mulu-10
+    span:
+    - body
+    - 2952
+    - 2952
+  label: 坡
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0536_GA_003-mulu-11
+    span:
+    - body
+    - 3006
+    - 3006
+  label: 坪
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0536_GA_003-mulu-12
+    span:
+    - body
+    - 3310
+    - 3310
+  label: 溪
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0536_GA_003-mulu-13
+    span:
+    - body
+    - 3554
+    - 3554
+  label: 河
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0536_GA_003-mulu-14
+    span:
+    - body
+    - 3786
+    - 3786
+  label: 溝
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0536_GA_003-mulu-15
+    span:
+    - body
+    - 3821
+    - 3821
+  label: 池
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0536_GA_003-mulu-16
+    span:
+    - body
+    - 4152
+    - 4152
+  label: 泉井
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0536_GA_003-mulu-17
+    span:
+    - body
+    - 4224
+    - 4224
+  label: 附：山道
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0536_GA_003-mulu-18
+    span:
+    - body
+    - 6546
+    - 6546
+  label: 附：水道
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0536_GA_003-mulu-19
+    span:
+    - body
+    - 7378
+    - 7378
+  label: 峨眉山行紀
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0536_GA_003-mulu-20
+    span:
+    - body
+    - 10118
+    - 10118
+  label: 登峨山道里紀
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0536_GA_003-mulu-21
+    span:
+    - body
+    - 15979
+    - 15979
+  label: 遊峨眉山記
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0536_GA_003-mulu-22
+    span:
+    - body
+    - 19567
+    - 19567
+  label: 附錄：慈雲懺主《往生淨土決疑行願二門》序
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0536_GA_004-juan-start
+    span:
+    - body
+    - 0
+    - 6559
+  label: 峨眉山志卷四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0536_GA_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第四、寺庵勝概
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0536_GA_004-mulu-2
+    span:
+    - body
+    - 16
+    - 16
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0536_GA_004-mulu-3
+    span:
+    - body
+    - 130
+    - 130
+  label: 寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0536_GA_004-mulu-4
+    span:
+    - body
+    - 2019
+    - 2019
+  label: 庵
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0536_GA_004-mulu-5
+    span:
+    - body
+    - 2798
+    - 2798
+  label: 堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0536_GA_004-mulu-6
+    span:
+    - body
+    - 2973
+    - 2973
+  label: 殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0536_GA_004-mulu-7
+    span:
+    - body
+    - 3202
+    - 3202
+  label: 院
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0536_GA_004-mulu-8
+    span:
+    - body
+    - 3303
+    - 3303
+  label: 樓
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0536_GA_004-mulu-9
+    span:
+    - body
+    - 3357
+    - 3357
+  label: 閣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0536_GA_004-mulu-10
+    span:
+    - body
+    - 3514
+    - 3514
+  label: 亭
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0536_GA_004-mulu-11
+    span:
+    - body
+    - 3589
+    - 3589
+  label: 橋
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0536_GA_004-mulu-12
+    span:
+    - body
+    - 3959
+    - 3959
+  label: 坊
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0536_GA_004-mulu-13
+    span:
+    - body
+    - 4027
+    - 4027
+  label: 塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0536_GA_004-mulu-14
+    span:
+    - body
+    - 4132
+    - 4132
+  label: 第五、感應靈異
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0536_GA_004-mulu-15
+    span:
+    - body
+    - 4138
+    - 4138
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0536_GA_004-mulu-16
+    span:
+    - body
+    - 4239
+    - 4239
+  label: 光燈
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0536_GA_004-mulu-17
+    span:
+    - body
+    - 4736
+    - 4736
+  label: 佛光辯
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0536_GA_004-mulu-18
+    span:
+    - body
+    - 4984
+    - 4984
+  label: 佛燈辯
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0536_GA_004-mulu-19
+    span:
+    - body
+    - 5267
+    - 5267
+  label: 遊峨眉山記
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0536_GA_004-mulu-20
+    span:
+    - body
+    - 6054
+    - 6054
+  label: 佛現鳥賦
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0536_GA_004-mulu-21
+    span:
+    - body
+    - 6367
+    - 6367
+  label: 附錄：《法苑珠林．千佛篇》述意文
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-juan-start
+    span:
+    - body
+    - 0
+    - 20638
+  label: 峨眉山志卷五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第六、歷代高僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-2
+    span:
+    - body
+    - 12
+    - 12
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-3
+    span:
+    - body
+    - 105
+    - 105
+  label: 晉
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-4
+    span:
+    - body
+    - 105
+    - 105
+  label: 晉千歲寶掌和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-5
+    span:
+    - body
+    - 527
+    - 527
+  label: 晉阿羅婆多尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-6
+    span:
+    - body
+    - 590
+    - 590
+  label: 晉釋慧持
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-7
+    span:
+    - body
+    - 1138
+    - 1138
+  label: 晉釋明果
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-8
+    span:
+    - body
+    - 1269
+    - 1269
+  label: 北周
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-9
+    span:
+    - body
+    - 1269
+    - 1269
+  label: 宇文周釋寶彖
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-10
+    span:
+    - body
+    - 1438
+    - 1438
+  label: 隋
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-11
+    span:
+    - body
+    - 1438
+    - 1438
+  label: 隋茂真尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-12
+    span:
+    - body
+    - 1457
+    - 1457
+  label: 唐
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-13
+    span:
+    - body
+    - 1457
+    - 1457
+  label: 唐昌福達道和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-14
+    span:
+    - body
+    - 1651
+    - 1651
+  label: 唐趙州
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-15
+    span:
+    - body
+    - 1703
+    - 1703
+  label: 唐黃檗老人
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-16
+    span:
+    - body
+    - 1736
+    - 1736
+  label: 唐南泉老人
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-17
+    span:
+    - body
+    - 1777
+    - 1777
+  label: 唐靈龕和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-18
+    span:
+    - body
+    - 1847
+    - 1847
+  label: 唐白水和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-19
+    span:
+    - body
+    - 1911
+    - 1911
+  label: 唐洞溪和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-20
+    span:
+    - body
+    - 1988
+    - 1988
+  label: 唐澄照大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-21
+    span:
+    - body
+    - 2064
+    - 2064
+  label: 唐西禪和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-22
+    span:
+    - body
+    - 2131
+    - 2131
+  label: 唐慧覺禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-23
+    span:
+    - body
+    - 2349
+    - 2349
+  label: 唐正性和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-24
+    span:
+    - body
+    - 2379
+    - 2379
+  label: 羅漢和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-25
+    span:
+    - body
+    - 2483
+    - 2483
+  label: 布水巖和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-26
+    span:
+    - body
+    - 2542
+    - 2542
+  label: 黃龍繼達禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-27
+    span:
+    - body
+    - 2622
+    - 2622
+  label: 黑水和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-28
+    span:
+    - body
+    - 2687
+    - 2687
+  label: 大乘和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-29
+    span:
+    - body
+    - 2762
+    - 2762
+  label: 唐東汀和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-30
+    span:
+    - body
+    - 2815
+    - 2815
+  label: 唐慧通禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-31
+    span:
+    - body
+    - 3036
+    - 3036
+  label: 宋
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-32
+    span:
+    - body
+    - 3036
+    - 3036
+  label: 宋白水如新禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-33
+    span:
+    - body
+    - 3059
+    - 3059
+  label: 宋慧真廣悟禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-34
+    span:
+    - body
+    - 3354
+    - 3354
+  label: 宋行明禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-35
+    span:
+    - body
+    - 3436
+    - 3436
+  label: 宋繼業三藏
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-36
+    span:
+    - body
+    - 3541
+    - 3541
+  label: 宋茂真
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-37
+    span:
+    - body
+    - 3642
+    - 3642
+  label: 宋白水宗月禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-38
+    span:
+    - body
+    - 3668
+    - 3668
+  label: 宋密印安民禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-39
+    span:
+    - body
+    - 4256
+    - 4256
+  label: 宋慧遠禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-40
+    span:
+    - body
+    - 5094
+    - 5094
+  label: 宋釋道宏
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-41
+    span:
+    - body
+    - 5229
+    - 5229
+  label: 宋純白禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-42
+    span:
+    - body
+    - 5641
+    - 5641
+  label: 宋禪惠大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-43
+    span:
+    - body
+    - 5716
+    - 5716
+  label: 宋別峯禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-44
+    span:
+    - body
+    - 6193
+    - 6193
+  label: 宋黑水曇振禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-45
+    span:
+    - body
+    - 6205
+    - 6205
+  label: 宋峨眉道者
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-46
+    span:
+    - body
+    - 6351
+    - 6351
+  label: 明
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-47
+    span:
+    - body
+    - 6351
+    - 6351
+  label: 明廣濟禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-48
+    span:
+    - body
+    - 6394
+    - 6394
+  label: 明寶曇國師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-49
+    span:
+    - body
+    - 6447
+    - 6447
+  label: 明匾囤禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-50
+    span:
+    - body
+    - 6716
+    - 6716
+  label: 明無瑕禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-51
+    span:
+    - body
+    - 6769
+    - 6769
+  label: 明徧融真圓禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-52
+    span:
+    - body
+    - 7211
+    - 7211
+  label: 明鎮滄沙彌
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-53
+    span:
+    - body
+    - 7329
+    - 7329
+  label: 明別傳和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-54
+    span:
+    - body
+    - 7618
+    - 7618
+  label: 明通天大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-55
+    span:
+    - body
+    - 7697
+    - 7697
+  label: 明無窮禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-56
+    span:
+    - body
+    - 7767
+    - 7767
+  label: 明大智和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-57
+    span:
+    - body
+    - 7847
+    - 7847
+  label: 明妙峯
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-58
+    span:
+    - body
+    - 9146
+    - 9146
+  label: 明歸空和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-59
+    span:
+    - body
+    - 9399
+    - 9399
+  label: 明萬世尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-60
+    span:
+    - body
+    - 9746
+    - 9746
+  label: 澄江和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-61
+    span:
+    - body
+    - 9841
+    - 9841
+  label: 印宗和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-62
+    span:
+    - body
+    - 10060
+    - 10060
+  label: 清
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-63
+    span:
+    - body
+    - 10060
+    - 10060
+  label: 清貫之和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-64
+    span:
+    - body
+    - 10192
+    - 10192
+  label: 清紫芝和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-65
+    span:
+    - body
+    - 10290
+    - 10290
+  label: 清繡頭和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-66
+    span:
+    - body
+    - 10447
+    - 10447
+  label: 清舒光照禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-67
+    span:
+    - body
+    - 10577
+    - 10577
+  label: 附：塔銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-68
+    span:
+    - body
+    - 10601
+    - 10601
+  label: 別峯禪師塔銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-69
+    span:
+    - body
+    - 11890
+    - 11890
+  label: 通天大師塔銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-70
+    span:
+    - body
+    - 13331
+    - 13331
+  label: 別傳禪師塔銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-71
+    span:
+    - body
+    - 14896
+    - 14896
+  label: 無瑕禪師塔銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-72
+    span:
+    - body
+    - 15485
+    - 15485
+  label: 無窮大師塔銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-73
+    span:
+    - body
+    - 16483
+    - 16483
+  label: 貫之和尚塔銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-74
+    span:
+    - body
+    - 17399
+    - 17399
+  label: 可聞禪師塔銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-75
+    span:
+    - body
+    - 19131
+    - 19131
+  label: 附：伏虎寺開學業禪堂緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0536_GA_005-mulu-76
+    span:
+    - body
+    - 20207
+    - 20207
+  label: 附錄：馮楫、范文光、蔣超三居士傳略
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-juan-start
+    span:
+    - body
+    - 0
+    - 14230
+  label: 峨眉山志卷六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第七、王臣外護
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-2
+    span:
+    - body
+    - 16
+    - 16
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-3
+    span:
+    - body
+    - 102
+    - 102
+  label: 初、歷朝勅賜
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-4
+    span:
+    - body
+    - 107
+    - 107
+  label: 唐僖宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-5
+    span:
+    - body
+    - 151
+    - 151
+  label: 宋太宗、真宗、仁宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-6
+    span:
+    - body
+    - 345
+    - 345
+  label: 明英宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-7
+    span:
+    - body
+    - 450
+    - 450
+  label: 明神宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-8
+    span:
+    - body
+    - 1291
+    - 1291
+  label: 清聖祖
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-9
+    span:
+    - body
+    - 1779
+    - 1779
+  label: 二、護法名文
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-10
+    span:
+    - body
+    - 1784
+    - 1784
+  label: 峨眉山普光殿記
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-11
+    span:
+    - body
+    - 2111
+    - 2111
+  label: 峨眉大佛寺碑記
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-12
+    span:
+    - body
+    - 2652
+    - 2652
+  label: 重修會福寺記
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-13
+    span:
+    - body
+    - 3270
+    - 3270
+  label: 勅賜會福寺碑文
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-14
+    span:
+    - body
+    - 3930
+    - 3930
+  label: 大峨山新建銅殿記
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-15
+    span:
+    - body
+    - 4875
+    - 4875
+  label: 峨眉山金殿記
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-16
+    span:
+    - body
+    - 5893
+    - 5893
+  label: 峨山修改盤路記
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-17
+    span:
+    - body
+    - 6584
+    - 6584
+  label: 續蓮社序
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-18
+    span:
+    - body
+    - 6862
+    - 6862
+  label: 住山說
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-19
+    span:
+    - body
+    - 7146
+    - 7146
+  label: 峨眉山伏虎寺碑記
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-20
+    span:
+    - body
+    - 7961
+    - 7961
+  label: 重建峨眉峯頂臥雲庵接待十方禪院記
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-21
+    span:
+    - body
+    - 8277
+    - 8277
+  label: 峨山伏虎寺藏經樓碑記
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-22
+    span:
+    - body
+    - 8676
+    - 8676
+  label: 重修光相寺碑記
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-23
+    span:
+    - body
+    - 9386
+    - 9386
+  label: 重修萬年寺碑記
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-24
+    span:
+    - body
+    - 9945
+    - 9945
+  label: 峨眉山萬年寺真武閣碑記
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-25
+    span:
+    - body
+    - 10277
+    - 10277
+  label: 海會堂八十八祖真像總讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-26
+    span:
+    - body
+    - 10477
+    - 10477
+  label: 鐵羅漢頌並序
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-27
+    span:
+    - body
+    - 10718
+    - 10718
+  label: 息心所頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-28
+    span:
+    - body
+    - 10892
+    - 10892
+  label: 峨眉大佛寺落成頌並序
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-29
+    span:
+    - body
+    - 11503
+    - 11503
+  label: 海會堂募置飯僧田偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-30
+    span:
+    - body
+    - 12127
+    - 12127
+  label: 第八、仙隱流寓
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-31
+    span:
+    - body
+    - 12133
+    - 12133
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-32
+    span:
+    - body
+    - 12242
+    - 12242
+  label: 陸通
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-33
+    span:
+    - body
+    - 12334
+    - 12334
+  label: 史通平
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-34
+    span:
+    - body
+    - 12392
+    - 12392
+  label: 丁次卿
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-35
+    span:
+    - body
+    - 12434
+    - 12434
+  label: 瞿鵲子
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-36
+    span:
+    - body
+    - 12469
+    - 12469
+  label: 許碏
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-37
+    span:
+    - body
+    - 12512
+    - 12512
+  label: 周義山
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-38
+    span:
+    - body
+    - 12590
+    - 12590
+  label: 左慈
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-39
+    span:
+    - body
+    - 12689
+    - 12689
+  label: 宿山圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-40
+    span:
+    - body
+    - 12710
+    - 12710
+  label: 陳芳慶
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-41
+    span:
+    - body
+    - 12747
+    - 12747
+  label: 孫思邈
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-42
+    span:
+    - body
+    - 13578
+    - 13578
+  label: 牟羅漢
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-43
+    span:
+    - body
+    - 13679
+    - 13679
+  label: 陳希夷
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-44
+    span:
+    - body
+    - 13722
+    - 13722
+  label: 文才
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-45
+    span:
+    - body
+    - 13940
+    - 13940
+  label: 竇誼
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-46
+    span:
+    - body
+    - 13979
+    - 13979
+  label: 譙秀
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-47
+    span:
+    - body
+    - 14003
+    - 14003
+  label: 仲子陵
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-48
+    span:
+    - body
+    - 14037
+    - 14037
+  label: 胡份
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-49
+    span:
+    - body
+    - 14062
+    - 14062
+  label: 杜鵬舉
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-50
+    span:
+    - body
+    - 14088
+    - 14088
+  label: 梁鼎
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-51
+    span:
+    - body
+    - 14105
+    - 14105
+  label: 巖下老人
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0536_GA_006-mulu-52
+    span:
+    - body
+    - 14151
+    - 14151
+  label: 韓懋
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-juan-start
+    span:
+    - body
+    - 0
+    - 13590
+  label: 峨眉山志卷七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第九、古今藝文
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-2
+    span:
+    - body
+    - 9
+    - 9
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-3
+    span:
+    - body
+    - 115
+    - 115
+  label: 序、記
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-4
+    span:
+    - body
+    - 115
+    - 115
+  label: 《譯峨籟》自序
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-5
+    span:
+    - body
+    - 470
+    - 470
+  label: 志竹變
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-6
+    span:
+    - body
+    - 844
+    - 844
+  label: 題喻廣文《峨眉山志》
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-7
+    span:
+    - body
+    - 1275
+    - 1275
+  label: 遊峨眉山記
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-8
+    span:
+    - body
+    - 1804
+    - 1804
+  label: 朝峨眉山記
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-9
+    span:
+    - body
+    - 4190
+    - 4190
+  label: 賦
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-10
+    span:
+    - body
+    - 4194
+    - 4194
+  label: 慈竹賦
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-11
+    span:
+    - body
+    - 4527
+    - 4527
+  label: 詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-12
+    span:
+    - body
+    - 4532
+    - 4532
+  label: 登峨眉山
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-13
+    span:
+    - body
+    - 4621
+    - 4621
+  label: 聽蜀僧彈琴
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-14
+    span:
+    - body
+    - 4668
+    - 4668
+  label: 峨眉山月歌送蜀僧宴入中京
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-15
+    span:
+    - body
+    - 4794
+    - 4794
+  label: 贈別鄭練赴襄陽
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-16
+    span:
+    - body
+    - 4844
+    - 4844
+  label: 寄司馬山人十二韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-17
+    span:
+    - body
+    - 4974
+    - 4974
+  label: 漫成
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-18
+    span:
+    - body
+    - 5079
+    - 5079
+  label: 望峨眉
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-19
+    span:
+    - body
+    - 5135
+    - 5135
+  label: 峨眉東腳臨江聽猨，懷二室舊廬
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-20
+    span:
+    - body
+    - 5190
+    - 5190
+  label: 江行夜宿龍吼灘，臨眺思峨眉隱者，兼寄幕中諸公
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-21
+    span:
+    - body
+    - 5252
+    - 5252
+  label: 峨眉山
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-22
+    span:
+    - body
+    - 5298
+    - 5298
+  label: 送臥雲庵僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-23
+    span:
+    - body
+    - 5346
+    - 5346
+  label: 送峨僧歸
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-24
+    span:
+    - body
+    - 5381
+    - 5381
+  label: 峨眉聖鐙
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-25
+    span:
+    - body
+    - 5416
+    - 5416
+  label: 贈伏虎僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-26
+    span:
+    - body
+    - 5463
+    - 5463
+  label: 峨眉山
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-27
+    span:
+    - body
+    - 5497
+    - 5497
+  label: 白水寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-28
+    span:
+    - body
+    - 5530
+    - 5530
+  label: 寄眉峯
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-29
+    span:
+    - body
+    - 5591
+    - 5591
+  label: 送賈訥倅眉
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-30
+    span:
+    - body
+    - 5654
+    - 5654
+  label: 峯頂臥雲庵
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-31
+    span:
+    - body
+    - 5719
+    - 5719
+  label: 峨眉山
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-32
+    span:
+    - body
+    - 5766
+    - 5766
+  label: 雙飛橋
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-33
+    span:
+    - body
+    - 5812
+    - 5812
+  label: 遊峨雜詠
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-34
+    span:
+    - body
+    - 5901
+    - 5901
+  label: 寄寶曇禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-35
+    span:
+    - body
+    - 5967
+    - 5967
+  label: 贈廣濟禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-36
+    span:
+    - body
+    - 6004
+    - 6004
+  label: 送峨眉歸雲聰長老還山
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-37
+    span:
+    - body
+    - 6045
+    - 6045
+  label: 峨眉高
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-38
+    span:
+    - body
+    - 6208
+    - 6208
+  label: 華嚴寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-39
+    span:
+    - body
+    - 6271
+    - 6271
+  label: 白水寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-40
+    span:
+    - body
+    - 6359
+    - 6359
+  label: 光相寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-41
+    span:
+    - body
+    - 6639
+    - 6639
+  label: 峯頂臥雲庵
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-42
+    span:
+    - body
+    - 6749
+    - 6749
+  label: 桫欏坪
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-43
+    span:
+    - body
+    - 6816
+    - 6816
+  label: 入山
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-44
+    span:
+    - body
+    - 6849
+    - 6849
+  label: 宿大峨峯頂
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-45
+    span:
+    - body
+    - 6943
+    - 6943
+  label: 伏虎寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-46
+    span:
+    - body
+    - 7009
+    - 7009
+  label: 贈靈巖寺僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-47
+    span:
+    - body
+    - 7073
+    - 7073
+  label: 伏虎寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-48
+    span:
+    - body
+    - 7138
+    - 7138
+  label: 宿峯頂
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-49
+    span:
+    - body
+    - 7183
+    - 7183
+  label: 解脫坡
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-50
+    span:
+    - body
+    - 7249
+    - 7249
+  label: 雨宿西坡寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-51
+    span:
+    - body
+    - 7300
+    - 7300
+  label: 遊靈巖寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-52
+    span:
+    - body
+    - 7348
+    - 7348
+  label: 峨山
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-53
+    span:
+    - body
+    - 7412
+    - 7412
+  label: 寄懷可聞和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-54
+    span:
+    - body
+    - 7508
+    - 7508
+  label: 大峨峯頂
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-55
+    span:
+    - body
+    - 7559
+    - 7559
+  label: 桫欏花
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-56
+    span:
+    - body
+    - 7626
+    - 7626
+  label: 峯頂
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-57
+    span:
+    - body
+    - 7692
+    - 7692
+  label: 雙飛橋
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-58
+    span:
+    - body
+    - 7743
+    - 7743
+  label: 峨眉山
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-59
+    span:
+    - body
+    - 7791
+    - 7791
+  label: 白水寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-60
+    span:
+    - body
+    - 7842
+    - 7842
+  label: 送清源師詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-61
+    span:
+    - body
+    - 7906
+    - 7906
+  label: 峨眉山歌
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-62
+    span:
+    - body
+    - 8202
+    - 8202
+  label: 聖鐙
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-63
+    span:
+    - body
+    - 8251
+    - 8251
+  label: 洪椿坪
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-64
+    span:
+    - body
+    - 8346
+    - 8346
+  label: 神水
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-65
+    span:
+    - body
+    - 8384
+    - 8384
+  label: 神水
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-66
+    span:
+    - body
+    - 8421
+    - 8421
+  label: 訪通天國師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-67
+    span:
+    - body
+    - 8486
+    - 8486
+  label: 題八十八祖像
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-68
+    span:
+    - body
+    - 8596
+    - 8596
+  label: 解脫橋
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-69
+    span:
+    - body
+    - 8626
+    - 8626
+  label: 梅子坡
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-70
+    span:
+    - body
+    - 8710
+    - 8710
+  label: 峯頂
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-71
+    span:
+    - body
+    - 8771
+    - 8771
+  label: 光相臺和舊遊
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-72
+    span:
+    - body
+    - 8824
+    - 8824
+  label: 覩光臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-73
+    span:
+    - body
+    - 8871
+    - 8871
+  label: 登峨說
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-74
+    span:
+    - body
+    - 9069
+    - 9069
+  label: 宿峯頂眺望
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-75
+    span:
+    - body
+    - 9164
+    - 9164
+  label: 過萬年寺懷紫芝禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-76
+    span:
+    - body
+    - 9287
+    - 9287
+  label: 虎谿贈可聞禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-77
+    span:
+    - body
+    - 9352
+    - 9352
+  label: 送張玉甲之官眉雅
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-78
+    span:
+    - body
+    - 9422
+    - 9422
+  label: 登峨眉
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-79
+    span:
+    - body
+    - 9871
+    - 9871
+  label: 大峨神水
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-80
+    span:
+    - body
+    - 9923
+    - 9923
+  label: 萬年寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-81
+    span:
+    - body
+    - 9990
+    - 9990
+  label: 老僧樹
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-82
+    span:
+    - body
+    - 10060
+    - 10060
+  label: 病中贈離指和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-83
+    span:
+    - body
+    - 10115
+    - 10115
+  label: 步題伏虎寺文峯迴文韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-84
+    span:
+    - body
+    - 10185
+    - 10185
+  label: 感貫之和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-85
+    span:
+    - body
+    - 10263
+    - 10263
+  label: 登峨眉
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-86
+    span:
+    - body
+    - 10351
+    - 10351
+  label: 丁卯春覲旋泛錦江，瞻眺峨眉
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-87
+    span:
+    - body
+    - 10426
+    - 10426
+  label: 夢登峨山，作望峨吟
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-88
+    span:
+    - body
+    - 10493
+    - 10493
+  label: 天門石
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-89
+    span:
+    - body
+    - 10529
+    - 10529
+  label: 解脫坡
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-90
+    span:
+    - body
+    - 10563
+    - 10563
+  label: 蓮花社
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-91
+    span:
+    - body
+    - 10597
+    - 10597
+  label: 石船子
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-92
+    span:
+    - body
+    - 10631
+    - 10631
+  label: 佛光
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-93
+    span:
+    - body
+    - 10677
+    - 10677
+  label: 佛燈
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-94
+    span:
+    - body
+    - 10722
+    - 10722
+  label: 贈與峨上人金陵請藏回山
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-95
+    span:
+    - body
+    - 10795
+    - 10795
+  label: 出勝峯門，道中望聖積、伏虎諸剎
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-96
+    span:
+    - body
+    - 10865
+    - 10865
+  label: 老僧樹偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-97
+    span:
+    - body
+    - 10949
+    - 10949
+  label: 桫欏花
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-98
+    span:
+    - body
+    - 10985
+    - 10985
+  label: 登峨山
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-99
+    span:
+    - body
+    - 11031
+    - 11031
+  label: 銅塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-100
+    span:
+    - body
+    - 11123
+    - 11123
+  label: 巨鐘
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-101
+    span:
+    - body
+    - 11156
+    - 11156
+  label: 過伏虎寺贈可聞和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-102
+    span:
+    - body
+    - 11208
+    - 11208
+  label: 解脫坡
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-103
+    span:
+    - body
+    - 11242
+    - 11242
+  label: 祇樹林
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-104
+    span:
+    - body
+    - 11281
+    - 11281
+  label: 銅殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-105
+    span:
+    - body
+    - 11326
+    - 11326
+  label: 還憩伏虎寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-106
+    span:
+    - body
+    - 11390
+    - 11390
+  label: 千手佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-107
+    span:
+    - body
+    - 11425
+    - 11425
+  label: 銅塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-108
+    span:
+    - body
+    - 11458
+    - 11458
+  label: 萬年寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-109
+    span:
+    - body
+    - 11521
+    - 11521
+  label: 桫欏花
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-110
+    span:
+    - body
+    - 11566
+    - 11566
+  label: 聖鐙
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-111
+    span:
+    - body
+    - 11626
+    - 11626
+  label: 大佛殿
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-112
+    span:
+    - body
+    - 11664
+    - 11664
+  label: 伏虎寺即事
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-113
+    span:
+    - body
+    - 11728
+    - 11728
+  label: 彌勒殿樓頭，訪志靈和尚，見壁詩，依韻和之
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-114
+    span:
+    - body
+    - 11776
+    - 11776
+  label: 贈伏虎寺瓶水禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-115
+    span:
+    - body
+    - 11856
+    - 11856
+  label: 觀心坡
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-116
+    span:
+    - body
+    - 11890
+    - 11890
+  label: 息心所
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-117
+    span:
+    - body
+    - 11952
+    - 11952
+  label: 佛光
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-118
+    span:
+    - body
+    - 11985
+    - 11985
+  label: 觀聖鐙
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-119
+    span:
+    - body
+    - 12047
+    - 12047
+  label: 峨山頂
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-120
+    span:
+    - body
+    - 12135
+    - 12135
+  label: 僧詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-121
+    span:
+    - body
+    - 12139
+    - 12139
+  label: 贈密印安民首座入峨眉中峯
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-122
+    span:
+    - body
+    - 12213
+    - 12213
+  label: 聖鐙
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-123
+    span:
+    - body
+    - 12262
+    - 12262
+  label: 寄虎溪可聞
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-124
+    span:
+    - body
+    - 12301
+    - 12301
+  label: 覩光臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-125
+    span:
+    - body
+    - 12338
+    - 12338
+  label: 送華陽山人遊峨眉
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-126
+    span:
+    - body
+    - 12380
+    - 12380
+  label: 觀心坡
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-127
+    span:
+    - body
+    - 12414
+    - 12414
+  label: 臥雲庵
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-128
+    span:
+    - body
+    - 12448
+    - 12448
+  label: 過太子坪聞達和尚舊隱
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-129
+    span:
+    - body
+    - 12489
+    - 12489
+  label: 山居
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-130
+    span:
+    - body
+    - 12552
+    - 12552
+  label: 雙飛橋
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-131
+    span:
+    - body
+    - 12601
+    - 12601
+  label: 山居
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-132
+    span:
+    - body
+    - 12637
+    - 12637
+  label: 洪椿坪
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-133
+    span:
+    - body
+    - 12699
+    - 12699
+  label: 牛心寺避雨
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-134
+    span:
+    - body
+    - 12747
+    - 12747
+  label: 古德林
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-135
+    span:
+    - body
+    - 12784
+    - 12784
+  label: 偶題
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-136
+    span:
+    - body
+    - 12820
+    - 12820
+  label: 贈天峯禪師隱靈巖
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-137
+    span:
+    - body
+    - 12874
+    - 12874
+  label: 宋王坪回文
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-138
+    span:
+    - body
+    - 12941
+    - 12941
+  label: 峨眉早春
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-139
+    span:
+    - body
+    - 13007
+    - 13007
+  label: 別鄉友
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-140
+    span:
+    - body
+    - 13041
+    - 13041
+  label: 登峨
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-141
+    span:
+    - body
+    - 13089
+    - 13089
+  label: 山居
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-142
+    span:
+    - body
+    - 13137
+    - 13137
+  label: 峨嶺秋
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-143
+    span:
+    - body
+    - 13199
+    - 13199
+  label: 送友之峨眉絕頂
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-144
+    span:
+    - body
+    - 13252
+    - 13252
+  label: 峨嶺雲
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-145
+    span:
+    - body
+    - 13298
+    - 13298
+  label: 山居次韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-146
+    span:
+    - body
+    - 13348
+    - 13348
+  label: 登峨
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-147
+    span:
+    - body
+    - 13396
+    - 13396
+  label: 懷峨
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-148
+    span:
+    - body
+    - 13444
+    - 13444
+  label: 伏虎寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-149
+    span:
+    - body
+    - 13509
+    - 13509
+  label: 井絡泉
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0536_GA_007-mulu-150
+    span:
+    - body
+    - 13543
+    - 13543
+  label: 隱峨自眺
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-juan-start
+    span:
+    - body
+    - 0
+    - 14448
+  label: 峨眉山志卷八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第十、動植物產
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-2
+    span:
+    - body
+    - 24
+    - 24
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-3
+    span:
+    - body
+    - 124
+    - 124
+  label: 鳥
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-4
+    span:
+    - body
+    - 514
+    - 514
+  label: 獸
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-5
+    span:
+    - body
+    - 655
+    - 655
+  label: 花
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-6
+    span:
+    - body
+    - 1559
+    - 1559
+  label: 木
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-7
+    span:
+    - body
+    - 1920
+    - 1920
+  label: 果
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-8
+    span:
+    - body
+    - 1968
+    - 1968
+  label: 竹
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-9
+    span:
+    - body
+    - 2328
+    - 2328
+  label: 茶
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-10
+    span:
+    - body
+    - 2522
+    - 2522
+  label: 菜
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-11
+    span:
+    - body
+    - 3103
+    - 3103
+  label: 藥
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-12
+    span:
+    - body
+    - 3395
+    - 3395
+  label: 草
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-13
+    span:
+    - body
+    - 3615
+    - 3615
+  label: 附：珍異
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-14
+    span:
+    - body
+    - 4094
+    - 4094
+  label: 第十一、蔣編志餘
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-15
+    span:
+    - body
+    - 4101
+    - 4101
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-16
+    span:
+    - body
+    - 4244
+    - 4244
+  label: 論峨眉
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-17
+    span:
+    - body
+    - 4780
+    - 4780
+  label: 寺觀沿革
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-18
+    span:
+    - body
+    - 4997
+    - 4997
+  label: 雲棲法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-19
+    span:
+    - body
+    - 6065
+    - 6065
+  label: 法照見聖
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-20
+    span:
+    - body
+    - 6664
+    - 6664
+  label: 峨眉火因
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-21
+    span:
+    - body
+    - 6818
+    - 6818
+  label: 遊山因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-22
+    span:
+    - body
+    - 7276
+    - 7276
+  label: 覩佛捨身
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-23
+    span:
+    - body
+    - 7504
+    - 7504
+  label: 山頂水論
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-24
+    span:
+    - body
+    - 7659
+    - 7659
+  label: 雷護聖地
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-25
+    span:
+    - body
+    - 7871
+    - 7871
+  label: 老僧樹
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-26
+    span:
+    - body
+    - 8025
+    - 8025
+  label: 樵陽子
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-27
+    span:
+    - body
+    - 9006
+    - 9006
+  label: 兩茂真
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-28
+    span:
+    - body
+    - 9076
+    - 9076
+  label: 靈感明太祖
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-29
+    span:
+    - body
+    - 9184
+    - 9184
+  label: 法力除蠎
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-30
+    span:
+    - body
+    - 9246
+    - 9246
+  label: 二孫思邈
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-31
+    span:
+    - body
+    - 9270
+    - 9270
+  label: 無窮再來
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-32
+    span:
+    - body
+    - 9481
+    - 9481
+  label: 菩薩應化無方
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-33
+    span:
+    - body
+    - 9648
+    - 9648
+  label: 論廣成子
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-34
+    span:
+    - body
+    - 9786
+    - 9786
+  label: 論楚狂及申棖
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-35
+    span:
+    - body
+    - 10126
+    - 10126
+  label: 論鬼嚴白張
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-36
+    span:
+    - body
+    - 10507
+    - 10507
+  label: 論葛洪
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-37
+    span:
+    - body
+    - 10623
+    - 10623
+  label: 王湘復生
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-38
+    span:
+    - body
+    - 10691
+    - 10691
+  label: 王勅奇迹
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-39
+    span:
+    - body
+    - 11004
+    - 11004
+  label: 命債難逃
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-40
+    span:
+    - body
+    - 11251
+    - 11251
+  label: 陽平謫仙
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-41
+    span:
+    - body
+    - 11692
+    - 11692
+  label: 論資生
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-42
+    span:
+    - body
+    - 12324
+    - 12324
+  label: 峨眉少松
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-43
+    span:
+    - body
+    - 12419
+    - 12419
+  label: 傳聞不實
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-44
+    span:
+    - body
+    - 12651
+    - 12651
+  label: 蜀饒硯材
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-45
+    span:
+    - body
+    - 12942
+    - 12942
+  label: 脫稿後聞
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-46
+    span:
+    - body
+    - 13535
+    - 13535
+  label: 附：書畫
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0536_GA_008-mulu-47
+    span:
+    - body
+    - 14427
+    - 14427
+  label: 附：宋時禾奇
+  type: mulu
+  level: 1
+hash: sha256:d5dec380b409d88e252c6b1680975c50093a032e6811765b7a03e63d73b674d0
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
