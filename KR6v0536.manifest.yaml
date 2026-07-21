@@ -18,7 +18,7 @@ editions:
 - short: GA
 assets:
   parts:
-  - {seq: 0, filename: KR6v0536_000.yaml, hash: 'sha256:80aebc692a4b7033a209f5ef908f5f1da61411daf16eb900cf8eb9b6d69b554a'}
+  - {seq: 0, filename: KR6v0536_000.yaml, hash: 'sha256:16d389502032e572215ac19b0b94939b6e00329f47fbdf1f8f5749f647d93c8c'}
   - {seq: 1, filename: KR6v0536_001.yaml, hash: 'sha256:98677f46aa4e76983f70a3d3456d1973bd13afa8008f84c84522fff7b9f168dc'}
   - {seq: 2, filename: KR6v0536_002.yaml, hash: 'sha256:9a64b0be6a48492438f2a0cd60b119d95302216b28381f2fce55eba3902c36f7'}
   - {seq: 3, filename: KR6v0536_003.yaml, hash: 'sha256:8e0e5821e787689eb1199622912dc2d9a01839f9054cbc9fd048a4212c007af8'}
@@ -28,7 +28,7 @@ assets:
   - {seq: 7, filename: KR6v0536_007.yaml, hash: 'sha256:d0b7b9e43fa8854aee5c6283f4a07cacd7b1e236123e36c1e541072bc4962b15'}
   - {seq: 8, filename: KR6v0536_008.yaml, hash: 'sha256:d132c628def6609b405b2da846a6c661283246e00a3337e6b4b924650530d9b4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0536_000.markers.yaml, hash: 'sha256:3e5cc72561ae899e4e6ca18f99c17d4369a906b3205b968b49d278f3faf7337f'}
+  - {seq: 0, role: markers, filename: assets/KR6v0536_000.markers.yaml, hash: 'sha256:aae2ee56b112d6eb78315a668fc6e4b0481603fbb440f100ac9b8022b723731b'}
   - {seq: 1, role: markers, filename: assets/KR6v0536_001.markers.yaml, hash: 'sha256:5ce02ca22203d36f454a9a3f4af23e544b4b7aeb4d132e0095d89475c85429a7'}
   - {seq: 2, role: markers, filename: assets/KR6v0536_002.markers.yaml, hash: 'sha256:80cf3ea17eb1e3a4791c9ec10a1d895c8e9b119f2dcbd98cc5bafc8c022fdf51'}
   - {seq: 3, role: markers, filename: assets/KR6v0536_003.markers.yaml, hash: 'sha256:593c92b7a94f38d91f14d3fe56a22e13e06e7b510664b2d342c27a5cc6c91aae'}
@@ -42,7 +42,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0536_GA_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 版本說明
@@ -52,7 +52,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0536_GA_000-mulu-2
     span:
-    - front
+    - body
     - 536
     - 536
   label: 卷首
@@ -62,7 +62,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0536_GA_000-mulu-3
     span:
-    - front
+    - body
     - 536
     - 536
   label: 序
@@ -72,7 +72,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0536_GA_000-mulu-4
     span:
-    - front
+    - body
     - 536
     - 536
   label: 重修流通序
@@ -82,7 +82,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0536_GA_000-mulu-5
     span:
-    - front
+    - body
     - 2957
     - 2957
   label: 舊序一
@@ -92,7 +92,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0536_GA_000-mulu-6
     span:
-    - front
+    - body
     - 3697
     - 3697
   label: 舊序二
@@ -102,7 +102,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0536_GA_000-mulu-7
     span:
-    - front
+    - body
     - 4198
     - 4198
   label: 舊序三
@@ -112,7 +112,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0536_GA_000-mulu-8
     span:
-    - front
+    - body
     - 4646
     - 4646
   label: 修山志說
@@ -122,7 +122,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0536_GA_000-mulu-9
     span:
-    - front
+    - body
     - 4871
     - 4871
   label: 補遺：峨眉山志記
@@ -132,7 +132,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0536_GA_000-mulu-10
     span:
-    - front
+    - body
     - 5118
     - 5118
   label: 凡例
@@ -142,7 +142,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0536_GA_000-mulu-11
     span:
-    - front
+    - body
     - 5118
     - 5118
   label: 舊志凡例
@@ -152,7 +152,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0536_GA_000-mulu-12
     span:
-    - front
+    - body
     - 5888
     - 5888
   label: 新訂凡例
@@ -162,7 +162,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0536_GA_000-mulu-13
     span:
-    - front
+    - body
     - 6339
     - 6339
   label: 總目
@@ -172,7 +172,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0536_GA_000-mulu-14
     span:
-    - front
+    - body
     - 6469
     - 6469
   label: 普賢菩薩像
@@ -182,7 +182,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0536_GA_000-mulu-15
     span:
-    - front
+    - body
     - 6469
     - 6469
   label: 大方廣佛華嚴經普賢菩薩行願品（節要）
@@ -4998,7 +4998,7 @@ table_of_contents:
   label: 附：宋時禾奇
   type: mulu
   level: 1
-hash: sha256:cc91c97111867480ee2f75117aac72780dfe5a24613cf5d447f6786773719347
+hash: sha256:5040a55ee129fd3e0edbbea1c718d7563a7ce22187112b76b4bfa60098ee52c7
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
